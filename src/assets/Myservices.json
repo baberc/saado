@@ -1,0 +1,73 @@
+{
+ "activities" : [
+ 	{  
+ 		"id":1,
+ 		"title": "gestion et assistance juridique",
+ 		"content": "Saado vous accompagne de la création de votre entité juridique à la cession de l’activité. Véritable chef d’orchestre de l’assistance juridique, Mr Haraki coordonne les interventions des partenaires spécialisés dès lors qu’une expertise particulière est requise."
+ 	},
+ 	{
+ 		"id":2,
+ 		"title": "constitution de société",
+ 		"content": "La constitution d'une société comprend plusieurs étapes. Une société est créée au moyen d'un acte de constitution, qui détermine notamment toutes ses caractéristiques, lesquelles seront reprises dans ses statuts. Pour passer cet acte, les futurs associés, fondateurs de la société, devront préalablement procéder à certaines formalités ou accomplir certaines démarches. Il faudra d'abord établir un projet de statuts en fonction des caractéristiques qu'ils veulent conférer à leur société (forme, objet, capital, etc.). Il faudra également obtenir l'accès à la profession lorsque leur exercice est réglementé."
+ 	},
+ 	{
+ 		"id":3,
+ 		"title": "Contrôle de gestion",
+ 		"content": ["l' élaboration des budgets","la  mise en place de la procédure de gestion et des règles opératoires","le suivi des résultats","le choix des indicateurs clés des tableaux de bord","la production et la diffusion des outils de pilotage"]
+ 	},
+ 	{
+ 		"id":4,
+ 		"title": "formation- etude de projet",
+ 		"content": "En matière de formation, le cabinet couvre un champ de compétences étendu.  Ainsi, notre programme de formations est ouvert à tous les chefs d’entreprise et à leurs collaborateurs. Par ailleurs, il se base sur la connaissance des besoins des dirigeants acquise par les Experts-comptables et Commissaires aux comptes d’alterethic au cours de 30 ans d’accompagnement. De plus, nos clients proviennent d’horizons divers."
+ 	},
+ 	{
+ 		"id":5,
+ 		"title": "cession-cessation",
+ 		"content": "En cas de cession, saado sera votre interlocuteur Privilégié. Après la préparation du projet de cession d'entreprise viennent la préparation de l'entreprise et du cédant à la vente. Cette préparation permettra de réaliser la vente dans de bonnes conditions. On s’occupera de : Préparer l'entreprise à la vente et optimiser le projet de cession d'entreprise. La validation du business plan avant la cession d'entreprise. La réalisation d'un dossier économique, financier et social. Apprécier la crédibilité des repreneurs et accompagner la négociation."
+ 	},
+ 	{
+ 		"id":6,
+ 		"title": "radiation",
+ 		"content": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+ 	}
+ ],
+ "missions":[
+ 	{
+ 		"id":1,
+ 		"title": "Conseil Comptable",
+ 		"content":[
+ 			"Tenue et surveillance de la comptabilité",
+ 			"Etablissement de comptes prévisionnels",
+ 			"Etablissement de situations comptables intermédiaires",
+ 			"Mise en place de la comptabilité analytique",
+ 			"Etablissement des comptes annuels",
+ 			"Révision et mise en place des procédures de contrôle internew"
+ 		]
+ 	},
+ 	{
+ 		"id":2,
+ 		"title": "Conseil Fiscal",
+ 		"content":[
+ 			"Assistance à la création d’entreprise",
+ 			"Choix de la forme sociale",
+ 			"Secrétariat juridique : approbation des comptes annuels, tenue des registres légaux",
+ 			"Opérations exceptionnelles : augmentation de capital, transfert de siège, cession de parts, transformation, dissolution,…",
+ 			"Etudes et consultations sur les problèmes fiscaux",
+ 			"Etablissement des déclarations fiscales",
+ 			"Assistance au contrôle fiscal"
+ 		]
+ 	},
+ 	{
+ 		"id":3,
+ 		"title": "Conseil Social",
+ 		"content":[
+ 			"Aide à la rédaction des contrats de travail",
+ 			"Assistance dans la gestion sociale de l’entreprise : application des nouvelles législations, de la convention collective, élections des représentants du personnel,…",
+ 			"Etablissement des bulletins de salaires",
+ 			"Etablissement des déclarations de cotisations sociales et des déclarations annuelles des salaires",
+ 			"Assistance dans les procédures d’embauche et de licenciement",
+ 			"Assistance au contrôle Urssaf"
+ 		]
+ 	}
+ ]
+}
